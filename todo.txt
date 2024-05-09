@@ -1,0 +1,13 @@
+[X] Create basic page 
+[X] Create calendar widget
+[X] Event list, see today and next days
+[X] Add events
+[x] Add customization features
+  - basically the user will visit the store page and "buy" themes 
+  - it will put it on the database 
+  - user can go back to calendar page
+[x] Create server script
+[x] Add mongo db stuff
+[x] Login / Logout
+[x] create readme
+[x] Little info thingy to show credits
